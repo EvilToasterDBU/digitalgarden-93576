@@ -12,7 +12,8 @@
 ![](/img/user/img/prism/04.png)
 ![](/img/user/img/prism/05.png)
 Добавляем сборку ![](/img/user/img/prism/06.png)
-Выбираем **Импорт**, вводим ссылку `https://toshta.su/minecraft/automodpack.zip` и жмем ОК или качаем архив и перекидываем его в лаунчер  ![](/img/user/img/prism/07.png)
+Выбираем **Импорт**, вводим ссылку `https://toshta.su/minecraft/automodpack.zip` и жмем ОК или [качаем архив](https://toshta.su/minecraft/automodpack.zip) и перекидываем его в лаунчер 
+![](/img/user/img/prism/07.png)
 Не забудьте в настройках лаунчера задать количество оперативки `6144` или `8192` если собираетесь играть с voxy
 ![](/img/user/img/prism/08.png)
 После запускаем майн и переходим к разделу [[Installation#Первый запуск\|#Первый запуск]]
@@ -30,14 +31,14 @@
 Выбираем слева пункт **Libary** => Жмем **Create new instance** ![](/img/user/img/mdr/01.png)
 Выбираем **Install modpack** ![](/img/user/img/mdr/02.png)
 Выбираем Import modpack ![](/img/user/img/mdr/03.png)
-Выбираем файл сборки ![](/img/user/img/mdr/04.png)
+Выбираем [файл сборки](https://toshta.su/minecraft/automodpack.mrpack) ![](/img/user/img/mdr/04.png)
 Ждем завершения установки ![](/img/user/img/mdr/05.png)
 Меняем количество оперативки в настройках на `6144` или `8192` если собираетесь играть с voxy
 ![](/img/user/img/mdr/07.png)
 Запускаем майн ![](/img/user/img/mdr/06.png)
 Переходим к разделу [[Installation#Первый запуск\|#Первый запуск]]
 ## Установка в CurseForge
-Возможно появится позже, у меня по какой-то причине совсем не позволяет создавать инстансы, но в теории можно импортировать файл для этого лаунчера, но я его не тестил. ![[automodpack(curse).zip]]
+Возможно появится позже, у меня по какой-то причине совсем не позволяет создавать инстансы, но в теории можно импортировать [файл](https://toshta.su/minecraft/automodpack(curse).zip) для этого лаунчера, но я его не тестил.
 ## Первый запуск
 Когда запустится майн жмем вторую кнопку ![](/img/user/img/fs/01.png)
 При подключении нас попросит связать дискорд-аккаунт с майнкрафт-аккаутном![](/img/user/img/fs/02.png)
