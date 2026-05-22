@@ -1,5 +1,5 @@
 ---
-{"icon":"LiHome","dg-home":true,"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"icon":"LiHome"}}
+{"icon":"LiHome","dg-home":true,"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"icon":"LiHome"}}
 ---
 
 # О сборке
