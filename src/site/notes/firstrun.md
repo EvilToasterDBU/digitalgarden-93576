@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["первый запуск"],"permalink":"/firstrun/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"aliases":["первый запуск"]}}
+{"dg-publish":true,"aliases":["первый запуск"],"permalink":"/firstrun/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["первый запуск"]}}
 ---
 
 ## Первый запуск

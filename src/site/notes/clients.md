@@ -1,5 +1,5 @@
 ---
-{"icon":"LiAppWindow","dg-publish":true,"aliases":["клиент"],"permalink":"/clients/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"icon":"LiAppWindow","aliases":["клиент"]}}
+{"icon":"LiAppWindow","dg-publish":true,"aliases":["клиент"],"permalink":"/clients/","dgPassFrontmatter":true,"dg-note-properties":{"icon":"LiAppWindow","aliases":["клиент"]}}
 ---
 
 # Рекомендуемые клиенты

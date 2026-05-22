@@ -1,5 +1,5 @@
 ---
-{"icon":"LiHardDriveDownload","dg-publish":true,"aliases":["установка"],"permalink":"/installation/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"icon":"LiHardDriveDownload","aliases":["установка"]}}
+{"icon":"LiHardDriveDownload","dg-publish":true,"aliases":["установка"],"permalink":"/installation/","dgPassFrontmatter":true,"dg-note-properties":{"icon":"LiHardDriveDownload","aliases":["установка"]}}
 ---
 
 ## Установка в PrismLauncher
