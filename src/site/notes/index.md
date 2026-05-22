@@ -2,6 +2,7 @@
 {"icon":"LiHome","dg-home":true,"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"icon":"LiHome"}}
 ---
 
+![avatarHead.png\|250](/img/user/img/avatarHead.png)
 # О сборке
 Сборка основана на готовом модпаке [Chosen's Create: Integrated v1.4.3](https://www.curseforge.com/minecraft/modpacks/chosens-create-integrated), на основу из модпака насажен мод [automodpack](https://www.curseforge.com/minecraft/mc-mods/automodpack) для автоматической загрузки и обновления клиента, так же установлены [Create Aeronautics](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics), [Create: Diesel Generators](https://www.curseforge.com/minecraft/mc-mods/create-diesel-generators) и различные QOL моды для удобства игры.
 # Начало игры
